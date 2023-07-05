@@ -1,2 +1,2 @@
 # VabusFrontend-
-Vabus Frontend using Express Js
+Vabus Frontend using React and Django
